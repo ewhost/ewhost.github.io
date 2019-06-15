@@ -3,8 +3,10 @@ padding:0px;
 margin:0px;
 background-color:#FFFFFF;
 background-image: url("/img/EW_bkgnd.gif");
+font-family: Tahoma, Helvetica, Arial;
 }
 a:hover{text-decoration:none;}
+TD { font-family: Tahoma, Helvetica, Arial; }
 
 INPUT.button {
 	BORDER-RIGHT: #999999 1px outset; BORDER-TOP: #999999 1px outset; 
